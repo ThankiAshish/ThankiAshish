@@ -7,7 +7,7 @@
 
 <ul align="center">
   <li>🌱 I’m currently learning **React, Designing, Typography**<li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/ThankiAshish" target=_blank>Github</a></li>
+  <li>👨‍💻 All of my projects are available at <span><a href="https://github.com/ThankiAshish" target=_blank>Github</a></span></li>
   <li>💬 Ask me about **React, JavaScript, HTML, CSS.**</li>
   <li>📫 How to reach me **thankiashish555@gmail.com**</li>
 </ul>
