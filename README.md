@@ -5,11 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThankiAshish&row=2&column=3&margin-h=15&margin-w=15" alt="ThankiAshish" /></a> </p>
 
-<p align="center">
-  <p align="justify">🌱 I’m currently learning **React, Designing, Typography**</p>
-  <p align="justify">👨‍💻 All of my projects are available at <span><a href="https://github.com/ThankiAshish" target=_blank>Github</a></span></p>
-  <p align="justify">💬 Ask me about **React, JavaScript, HTML, CSS.**</p>
-  <p align="justify">📫 How to reach me **thankiashish555@gmail.com**</p>
-</p>
+<p align="left">🌱 I’m currently learning **React, Designing, Typography**</p>
+<p align="left">👨‍💻 All of my projects are available at <span><a href="https://github.com/ThankiAshish" target=_blank>Github</a></span></p>
+<p align="left">💬 Ask me about **React, JavaScript, HTML, CSS.**</p>
+<p align="left">📫 How to reach me **thankiashish555@gmail.com**</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true&locale=en" alt="ThankiAshish" /></p>
