@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Designing, Typography**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThankiAshish](https://github.com/ThankiAshish)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ThankiAshish" target=_blank>Github</a>
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS.**
 
