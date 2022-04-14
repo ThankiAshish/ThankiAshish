@@ -1,9 +1,9 @@
 <h1 align="center">Yo 👋, I'm Ashish</h1>
 <h3 align="center">A Curious "Web Developer" Mainly Proficient in Frontend and Designing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thankiashish&label=Profile%20views&color=0e75b6&style=flat" alt="thankiashish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThankiAshish&label=Profile%20views&color=0e75b6&style=flat" alt="ThankiAshish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thankiashish" alt="thankiashish" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThankiAshish" alt="ThankiAshish" /></a> </p>
 
 - 🌱 I’m currently learning **React, Designing, Typography**
 
@@ -13,4 +13,4 @@
 
 - 📫 How to reach me **thankiashish555@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thankiashish&show_icons=true&locale=en" alt="thankiashish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true&locale=en" alt="ThankiAshish" /></p>
