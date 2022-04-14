@@ -13,4 +13,4 @@
 
 - 📫 How to reach me **thankiashish555@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true&locale=en" alt="ThankiAshish" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true&locale=en" alt="ThankiAshish" /></p>
