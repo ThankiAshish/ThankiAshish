@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThankiAshish&row=2&column=3&margin-h=15&margin-w=15" alt="ThankiAshish" /></a> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankiAshish&show_icons=true&theme=dracula" />
 </a>
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true" />
 </a>
 
