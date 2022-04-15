@@ -13,11 +13,13 @@
 <h1 align="center">Skills & Tools</h3>
 <br>
 
-<p align="center">
-  <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <p>
+    <a href="https://img.shields.io">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
 <br>
 <p align="center">
