@@ -9,6 +9,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ThankiAshish&row=2&column=3&margin-h=15&margin-w=15" alt="ThankiAshish" />
   </a>
 </p> -->
+
+<h1 align="center">Skills & Tools</h3>
+<br>
+
+<p align="center">
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+</p>
+
 <br>
 <p align="center">
   <a href="https://git.io/streak-stats">
