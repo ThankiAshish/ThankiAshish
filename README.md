@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/ThankiAshish" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ThankiAshish&row=2&column=3&margin-h=15&margin-w=15" alt="ThankiAshish" />
   </a>
-</p>
+</p> -->
 <br>
 <p align="center">
   <a href="https://git.io/streak-stats">
