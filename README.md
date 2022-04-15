@@ -10,7 +10,7 @@
   </a>
 </p> -->
 
-<h1 align="center">Skills & Tools</h3>
+<h3 align="center">Skills & Tools</h3>
 <br>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
