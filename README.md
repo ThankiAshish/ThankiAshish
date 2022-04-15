@@ -1,17 +1,16 @@
 <h1 align="center">Yo 👋, I'm Ashish</h1>
 <h3 align="center">A Curious "Web Developer" Mainly Proficient in Frontend and Designing.</h3>
+
 <br>
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/ThankiAshish" />
 </p>
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThankiAshish&row=2&column=3&margin-h=15&margin-w=15" alt="ThankiAshish" />
-  </a>
-</p> -->
 
-<h3 align="center">Skills & Tools</h3>
+<h2 align="center">Skills & Tools</h2>
+
 <br>
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
