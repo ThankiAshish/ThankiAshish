@@ -13,7 +13,7 @@
 <h1 align="center">Skills & Tools</h3>
 <br>
 
-<div id="Skills_Tools">
+<div id="Skills_Tools" >
   <p>
     <a href="https://img.shields.io">
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -178,3 +178,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true&theme=tokyonight" />
   </a>
 </p>
+
+<style>
+  #Skills_Languages {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+</style>
