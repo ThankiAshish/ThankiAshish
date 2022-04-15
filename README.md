@@ -20,6 +20,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true" />
   </a>
 </p>
-<br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThankiAshish)  
