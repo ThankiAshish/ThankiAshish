@@ -82,7 +82,7 @@
 
 <br>
 
-<h3 align="center">Github Streak</h3>
+<h2 align="center">➕ Github Streak</h2>
 <br>
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -92,7 +92,7 @@
 
 <br>
 
-<h3 align="center">Github Stats</h3>
+<h2 align="center">📈 Github Stats</h2>
 <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
