@@ -82,6 +82,8 @@
 
 <br>
 
+<h3 align="center">Github Streak</h3>
+<br>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ThankiAshish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
@@ -90,6 +92,8 @@
 
 <br>
 
+<h3 align="center">Github Stats</h3>
+<br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true&theme=tokyonight" />
