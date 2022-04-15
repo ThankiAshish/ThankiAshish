@@ -1,5 +1,6 @@
 <h1 align="center">Yo 👋, I'm Ashish</h1>
 <h3 align="center">A Curious "Web Developer" Mainly Proficient in Frontend and Designing.</h3>
+<br>
 <p align="center">
   <img src="https://gpvc.arturio.dev/ThankiAshish" />
 </p>
