@@ -75,23 +75,3 @@
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
-<br>
-
-<h2 align="center">➕ Github Streak</h2>
-<br>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ThankiAshish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="center">📈 Github Stats</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThankiAshish&show_icons=true&theme=tokyonight" />
-  </a>
-</p>
